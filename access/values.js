@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "12.10.2003"; // Дата рождения
-var fullname = "Рибальченко Андрій Сергійович" // ФИО
+var birthdate = "10.11.1995"; // Дата рождения
+var fullname = "Мартинов Артур Вячеславович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
